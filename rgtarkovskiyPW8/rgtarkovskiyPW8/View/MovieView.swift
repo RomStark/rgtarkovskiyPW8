@@ -13,6 +13,11 @@ class MovieView: UITableViewCell {
     private let poster = UIImageView()
     private let title = UILabel()
     
+    override init(style: UITableViewCell.CellStyle, reuseIdentifier: String?) {
+            super.init(style: .default, reuseIdentifier: Self.identifier)
+            configureUI()
+        }
+    
     init() {
         super.init(style: .default, reuseIdentifier: Self.identifier)
         configureUI()
