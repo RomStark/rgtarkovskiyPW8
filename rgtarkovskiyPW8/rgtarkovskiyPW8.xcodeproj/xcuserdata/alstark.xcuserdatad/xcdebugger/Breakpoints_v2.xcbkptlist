@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8B81BB50-1EA2-475B-8C83-0A49517BB99B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CC5D8101-09B8-4AA7-8D2D-CBB46558BAB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "rgtarkovskiyPW8/View/MovieView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "MovieView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CC5D8101-09B8-4AA7-8D2D-CBB46558BAB1 - ff83f046b6f2d6bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW8.MovieView.__allocating_init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; rgtarkovskiyPW8.MovieView"
+                  moduleName = "rgtarkovskiyPW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW8/rgtarkovskiyPW8/View/MovieView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "CC5D8101-09B8-4AA7-8D2D-CBB46558BAB1 - 8639cb42db1eaafd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW8.MovieView.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; rgtarkovskiyPW8.MovieView"
+                  moduleName = "rgtarkovskiyPW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW8/rgtarkovskiyPW8/View/MovieView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "CC5D8101-09B8-4AA7-8D2D-CBB46558BAB1 - f6350aba6822d1c8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "rgtarkovskiyPW8.MovieView.__deallocating_deinit"
+                  moduleName = "rgtarkovskiyPW8"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alstark/Desktop/rgtarkovskiyPW8/rgtarkovskiyPW8/View/MovieView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
